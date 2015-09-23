@@ -1,5 +1,5 @@
 # BizPlan Overview
-A repository of business plan presentations and the executable workflows built upon delivering those pitches for different industries based on the 10-20-30 foundation.  A discussion of how the [10-20-30](http://guykawasaki.com/the-only-10-slides-you-need-in-your-pitch/) template is applied in this repository discussed below.  This repository is licensed under the [Creative Commons Universal license](License). Read the wiki for background information, fork this repository, submit issue requests and look around to see what we are up to.  If you are excited about this project, you may even want look into [contributing to the effort](Contributing.MD)   
+A repository of business plan presentations and the executable workflows built upon delivering those pitches for different industries based on the 10-20-30 foundation.  A discussion of how the [10-20-30](http://guykawasaki.com/the-only-10-slides-you-need-in-your-pitch/) template is applied in this repository discussed below.  This repository is licensed under the [Creative Commons Universal license](LICENSE). Read the wiki for background information, fork this repository, submit issue requests and look around to see what we are up to.  If you are excited about this project, you may even want look into [contributing to the effort](Contributing.MD)   
 
 ## Introduction
 
