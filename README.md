@@ -1,5 +1,5 @@
-# BizPlan
-A repository of business plan presentations and the executable workflows built upon delivering those pitches for different industries based on the 10-20-30 foundation.
+# BizPlan Overview
+A repository of business plan presentations and the executable workflows built upon delivering those pitches for different industries based on the 10-20-30 foundation.  A discussion of how the [10-20-30](http://guykawasaki.com/the-only-10-slides-you-need-in-your-pitch/) template is applied in this repository discussed below.  This repository is licensed under the [Creative Commons license](License.MD). Feel free to fork this repository, submit issue requests or even look into [contributing to the effort](Contributing.MD)   
 
 ## Introduction
 
