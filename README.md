@@ -11,9 +11,9 @@ You obviously do not have time to waste with every single human on the planet --
 
 ## Need For Product/Service
 
-Convince your audience that you *really* understand the problem and the root cause of the problem better than anyone else? It is important to be ready to do a deep dive into the [full Ishikawa cause-and-effect analysis of the problem](https://en.wikipedia.org/wiki/Ishikawa_diagram) driving the need for the product, but you cannot afford to get into that kind of detail in a 20 minute presentation. The same thing applies to the other slides/headings that follow this one ... it is a matter of avoiding detail, but able to RAPIDLY dive deep [on any topic, related to your business plan] when asked a specific question.
+You will explain or allude to your solution, but only enough in detail to illustrate why anyone would **need** YOUR product or service ... the important thing at this point is to thoroughly convince your audience that you *really* understand the problem and the root cause of the problem better than anyone else? 
 
-Explain your solution, but only enough to illustrate why anyone would **need** YOUR product or service.    
+It is important to be ready to do a deep dive into the [full Ishikawa cause-and-effect analysis of the problem](https://en.wikipedia.org/wiki/Ishikawa_diagram) driving the need for the product, but you cannot afford to get into that kind of detail in a 20 minute presentation. {NOTE: The very same principle applies to the details in other slides/headings that follow this one ... it is a matter of focus, not avoiding detail but rather whetting the appetites for questions; as you pitch more and more, you will improve your skill in cultivating interest and answering questions that follow.  You have to have done the homework and be able to RAPIDLY dive deep [on any topic, related to your business plan] when asked a specific question.}
 
 ## Value Proposition to Target Clients or Customers
 
