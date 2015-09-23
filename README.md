@@ -11,7 +11,9 @@ You obviously do not have time to waste with every single human on the planet --
 
 ## Need For Product/Service
 
-Convince your audience that you *really* understand the problem and the root cause of the problem better than anyone else?  Explain your solution, but only enough to illustrate why anyone would **need** YOUR product or service.    
+Convince your audience that you *really* understand the problem and the root cause of the problem better than anyone else? It is important to be ready to do a deep dive into the [full Ishikawa cause-and-effect analysis of the problem](https://en.wikipedia.org/wiki/Ishikawa_diagram) driving the need for the product, but you cannot afford to get into that kind of detail in a 20 minute presentation. The same thing applies to the other slides/headings that follow this one ... it is a matter of avoiding detail, but able to RAPIDLY dive deep [on any topic, related to your business plan] when asked a specific question.
+
+Explain your solution, but only enough to illustrate why anyone would **need** YOUR product or service.    
 
 ## Value Proposition to Target Clients or Customers
 
@@ -35,11 +37,13 @@ Beyond just your current secret sauce, what is your dynamic leadership advantage
 
 How do you use different avenues, especially taking advantage of social media, APIs, version-controlled content repositories and other distributed platforms to spread the word, evangelize followers, to get others to do your PR and marketing.
 
-One person cannot implement a marketing plan alone.  Explain how are you building the foundation for OTHERS to spread the word.  "There’s nothing wrong with a CEO who can sell, but if he actually looks like a salesman, he’s probably bad at sales and worse at tech.”  Peter Thiel and Blake Masters (2014-09-16). Zero to One: Notes on Startups, or How to Build the Future.
+One person cannot implement a marketing plan alone; this is especially true of the CEO.  Explain how are you [as the CEO] is building the foundation for OTHERS to spread the word.  "There’s nothing wrong with a CEO who can sell, but if he actually looks like a salesman, he’s probably bad at sales and worse at tech.”  Peter Thiel and Blake Masters (2014-09-16). Zero to One: Notes on Startups, or How to Build the Future.
 
 ## Management Analysis
 
-Your org charge or listing the people/bios on your management team should provide the foundation for illustrating how you have management analysis covered, but it is also important to be humble.  Do not be afraid to discuss weaknesses or stumbles and what you are doing to correct the issues.  The discussion of management analysis is a story of emergence; it is not a celebration of past accomplishments by a dream team. 
+Management analysis builds on everything covered so far.
+
+Your org chart or listing the people/bios on your management team should provide the foundation for illustrating how you have management analysis covered, but it is also important to be humble.  Do not be afraid to discuss weaknesses or stumbles and what you are doing to correct the issues.  The discussion of management analysis is a story of emergence; it is not a celebration of past accomplishments by a dream team. 
 
 Every single day anyone in business must ask the seven key questions that every business must answer:
 
