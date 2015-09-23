@@ -3,7 +3,11 @@ A repository of business plan presentations and the executable workflows built u
 
 ## Introduction
 
-Insert 30-second elevator speech here and so that people know whether or not to read/listen to the rest of your presentation -- do not try to appeal to everyone; appeal ONLY to those who can help you.
+Develop several variants of a 30-second elevator speech and insert one of those variants here and so that people know whether or not to read/listen to the rest of your presentation
+
+It is extremely important that you do not try to appeal to everyone ... you must CONNECT one-to-one with the key people you want in your audience.  
+
+You obviously do not have time to waste with every single human on the planet -- realistically, you can probably only reach a few thousand with a good video and far fewer than that with a 20-minute in-person pitch.  Appeal ONLY to your specific audience and make sure that you qualify your audience before wasting their time or yours.  Focus only on those who will be ready, willing and able help you after hearing your pitch.
 
 ## Need For Product/Service
 
