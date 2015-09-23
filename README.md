@@ -39,6 +39,8 @@ One person cannot implement a marketing plan alone.  Explain how are you buildin
 
 ## Management Analysis
 
+Your org charge or listing the people/bios on your management team should provide the foundation for illustrating how you have management analysis covered, but it is also important to be humble.  Do not be afraid to discuss weaknesses or stumbles and what you are doing to correct the issues.  The discussion of management analysis is a story of emergence; it is not a celebration of past accomplishments by a dream team. 
+
 Every single day anyone in business must ask the seven key questions that every business must answer:
 
 - **Timing** Is NOW the right time to research OR plan OR develop OR launch OR scale OR pivot OR shelve your particular business idea?
@@ -50,8 +52,6 @@ Every single day anyone in business must ask the seven key questions that every 
 - **Secret** Have you identified a unique opportunity that others don’t see?  What is the secret to how you found your secret?
 
 The answers change a bit every single day.  The management task for each day is basically a matter of working through the Strengths, Weaknesses, Opportunities and Threats related to each of these seven big questions.
-
-The makeup of the people on your management team should illustrate how you have management analysis covered, but it is also important to be humble.  Do not be afraid to discuss weaknesses or stumbles and what you are doing to correct the issues.  The discussion of management is a story of emergence; it is not a celebration of past accomplishments. 
 
 ## Financial Analysis -- Think WIN-WIN-WIN
 
