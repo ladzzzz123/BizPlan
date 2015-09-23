@@ -55,7 +55,11 @@ The makeup of the people on your management team should illustrate how you have 
 
 ## Financial Analysis -- Think WIN-WIN-WIN
 
-Your business needs to cash flow right away.  An infusion of cash might help you to expand, but why should investors invest -- what is the exit strategy for an investor; what kind of return will the investor get out of your company?  
+**Do NOT beg for money!**  NO investor or partner or employee is going to help a beggar. 
+
+Your business needs to cash flow from the start with a minimum of your own bootstrapped funds from your hard-earned savings.  
+
+An infusion of cash might help you to expand, but why should investors invest -- what is the exit strategy for an investor; what kind of return will the investor get out of your company?  
 
 Maybe you are not looking for investors, but financial analysis is necessary for the business owner and it is also important for convince other key potential employees or partners of the sustainability of the enterprise. What is in it for an employee or partner?  
 
